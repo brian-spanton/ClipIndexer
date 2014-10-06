@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipIndexer", "ClipIndexer.csproj", "{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foobalator", "..\Foobalator\Foobalator.csproj", "{1F56DA7A-698A-4ED9-979F-08F8B0954585}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://atlas:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ClipIndexer.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\Foobalator\\Foobalator.csproj
+		SccProjectName2 = ../Foobalator
+		SccLocalPath2 = ..\\Foobalator
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Debug|x86.ActiveCfg = Debug|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Debug|x86.Build.0 = Debug|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Release|Any CPU.ActiveCfg = Release|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Release|Mixed Platforms.Build.0 = Release|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Release|x86.ActiveCfg = Release|x86
+		{5D9B701E-E263-4C6A-9F2D-1BA0DC90ACB0}.Release|x86.Build.0 = Release|x86
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1F56DA7A-698A-4ED9-979F-08F8B0954585}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
